@@ -5,7 +5,7 @@ Front End Developer | Passionate Problem Solver | Building Modern Web Experience
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Node.js;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;JavaScript+%7C+React+%7C+Python;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" alt="Typing SVG" />
 </p>
 
 ---
