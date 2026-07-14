@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Your Pradeep Maharaja M</h1>
 
 <h3 align="center">
-Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Experiences
+Front End Developer | Passionate Problem Solver | Building Modern Web Experiences
 </h3>
 
 <p align="center">
@@ -12,12 +12,13 @@ Full Stack Web Developer | Passionate Problem Solver | Building Modern Web Exper
 
 # 👨‍💻 About Me
 
-- 💻 Full Stack Web Developer passionate about building responsive and user-friendly web applications.
-- 🚀 I enjoy turning ideas into real-world projects.
-- 🌱 Currently learning **Next.js**, **TypeScript**, and **Cloud Technologies**.
-- 🤝 Open to collaborating on exciting web development and open-source projects.
-- 📚 Always exploring modern technologies and best development practices.
-- ⚡ Fun Fact: I love solving coding challenges and building useful applications.
+- 💻 Front End Developer passionate about building responsive, interactive, and user-friendly web applications.
+- ⚛️ Skilled in **React.js** for creating modern and dynamic user interfaces.
+- 🐍 Passionate about **Python** for scripting, automation, and backend development.
+- ☁️ Currently learning **Cloud Technologies** to build scalable and reliable applications.
+- 🤝 Open to collaborating on frontend, Python, and open-source projects.
+- 📚 Always exploring new technologies and best practices to improve my development skills.
+- ⚡ Fun Fact: I enjoy solving coding challenges and turning creative ideas into real-world applications.
 
 ---
 
