@@ -25,7 +25,7 @@ Front End Developer | Passionate Problem Solver | Building Modern Web Experience
 # 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
+  <a href="[https://linkedin.com/in/your-profile](https://www.linkedin.com/in/pradeepmaharaja003?utm_source=share_via&utm_content=profile&utm_medium=member_ios)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
