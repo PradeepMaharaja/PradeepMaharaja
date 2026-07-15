@@ -32,9 +32,9 @@ Front End Developer | Passionate Problem Solver | Building Modern Web Experience
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 
-  <a href="mailto:kumarpradeep27977@email.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+<a href="mailto:kumarpradeep27977@email.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 </p>
 
 ---
