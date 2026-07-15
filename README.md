@@ -131,14 +131,14 @@ A productivity application to organize daily tasks with authentication.
 
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
-- TypeScript
-- Next.js
-- Docker
-- AWS
-- System Design
-- Backend Architecture
+- ⚛️ React.js
+- 🐍 Python
+- 🔌 APIs
+- 🗄️ Databases
+- 🏗️ System Design
+- 🖥️ Backend Development
 
 ---
 
